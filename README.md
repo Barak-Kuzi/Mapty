@@ -18,6 +18,3 @@ This is a web application where the goal is to log the workouts(running or cycli
 - JavaScript
 - HTML
 - CSS
-
-## About
-This project was developed in the course: "The Complete JavaScript Course 2023: From Zero to Expert!", by Jonas Schmedtmann.
